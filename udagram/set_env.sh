@@ -8,7 +8,7 @@ export POSTGRES_PASSWORD=postgres
 export DB_PORT=5432
 export PORT=3000
 #! S3 Bucket Name
-
+export AWS_DEFAULT_REGION=us-east-1
 export AWS_BUCKET=arn:aws:s3:::adham-udagram
 export AWS_REGION=us-east-1
 export AWS_PROFILE=default
